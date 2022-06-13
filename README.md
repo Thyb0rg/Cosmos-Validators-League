@@ -40,11 +40,11 @@ We’re setting out to build a new ranking that reflects more accurately the val
 Quantitative metrics
 
 The following quantitative metrics will be taken into account:
-Longevity
-Uptime
-Slashing events
-Number of relayed packets
-Vote participation
+- Longevity
+- Uptime
+- Slashing events
+- Packets relayed 
+- Vote participation
 
 Qualitative metrics
 
