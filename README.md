@@ -1,4 +1,4 @@
-# cosmos-validators-league
+# Cosmos Validators League
 
 In Cosmos and other PoW blockchains, validators play the critical role of signing transactions and securing the network. However, a major issue all networks have to deal with is the concentration of economic and voting power.
 
