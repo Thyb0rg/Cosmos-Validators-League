@@ -56,6 +56,7 @@ Listing requirements
 We will also be considering enforcing a basic "code of conduct" for validators that wish to be included in the community ranking, which would involve implementing good social & security practices (such as double-sign protection via TMKMS or Horcrux for instance)
 
 Features
+
 The actual validator ranking is the core feature of the project. 
 
 Other potential features include:
