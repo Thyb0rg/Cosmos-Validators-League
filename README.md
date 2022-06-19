@@ -107,6 +107,6 @@ pick their validators.
 No shortage of use cases!
 
 ### Contributors
-The project is currently being carried out by Thyborg, <a href="https://github.com/eco-stake">Ecostake</a> and <a href="https://github.com/gh0stdotexe">gh0st</a> from WhisperNode</a>. Based on community feedback, we might decide to formalize the “Cosmos Validator League'' as a DAO advocacy group to fund development and support its members.
+The project is currently being carried out by Thyborg, <a href="https://github.com/eco-stake">Ecostake</a> and <a href="https://github.com/gh0stdotexe">gh0st</a> from WhisperNode</a>.
 
 We’re inviting all active community validators to join us, which can be done by contributing to the development effort, or simply participating in the new “Cosmos Validator League” Discord server to provide feedback on the ranking criteria, weights & parameters.
