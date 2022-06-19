@@ -1,7 +1,5 @@
 # The Cosmos Validators League.
 
-Fellow validators, it's time we gather around and have an important conversation, as a collective - for those of us that TRULY care about decentralization.
-
 In the Cosmos and other PoW blockchains, validators play the critical role of signing transactions and securing the network. However, a major issue all networks have to deal with is the concentration of economic and voting power.
 
 ## Voting power issue.
@@ -49,7 +47,7 @@ The following quantitative metrics will be taken into account:
 
 ### <u>Qualitative metrics</u>
 
-Building upon the [Thyborg Cosmos Validator Ranking](https://datastudio.google.com/s/msjj-w1RQLo), we plan to integrate some qualitative data into the total score: sufficient information will be provided for each validator, and qualifying delegator wallet will be able to grade validators on-chain for the following criteria:
+We plan to integrate some qualitative data into the total score: sufficient information will be provided for each validator, and qualifying delegator wallet will be able to grade validators on-chain for the following criteria:
 <ul>
 <li>Contribution: Track record for contributions to the growth of the ecosystem through the technical expertise</li>
 <li>Participation: Track record for participations in governance, e.g putting forward new proposals or reviewing,
